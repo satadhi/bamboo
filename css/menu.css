@@ -1,5 +1,8 @@
 #menu_title{
    font-family: 'Lobster', cursive;
-   font-size: 2.0em;
+   font-size: 2.5em;
     color: ghostwhite;
+}
+#back_button{
+    font-size: 1.em;
 }
