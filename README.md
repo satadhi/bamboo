@@ -1,2 +1,5 @@
-# bamboo
-satadhi ayan and nishat
+Restaurant
+==========
+
+A template for Restaurant business
+"# bamboo_restaurant" 

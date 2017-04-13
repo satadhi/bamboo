@@ -1,7 +1,7 @@
 /*
 Theme Name: Restaurant
 Theme URI: http://themewagon.com/demo/Restaurant/
-Author: Satadhi & Ayan
+Author: ThemeWagon
 Author URI: http://themewagon.com/
 Description: 
 Version: 1.0
@@ -43,7 +43,7 @@ p.desc-text{
     -webkit-font-smoothing: antialiased;
 }
 .img-section-space {
-    margin-top: 2px;
+    margin-top: 5px;
 }
 .fa-2x{
     padding-top: 5px;
@@ -199,7 +199,7 @@ INTRO CONTAINER
     min-width: 100%;
     height: 100%;
     background: url('../images/steak.jpg') no-repeat center center;
-    background-size: cover;
+    background-size: 1330px 500px;
     text-align: center;
     background-position: center;  
 }
@@ -857,3 +857,4 @@ MEDIA QUERIE DESKTOP
         font-size: 30px;
     }
 }
+
