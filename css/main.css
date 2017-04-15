@@ -352,10 +352,11 @@ FIRST FOOTER CONTENT
     color: #63C85D;
     text-align: center;
     margin: 40px 0 0 0;
+    padding-left: 10px;
 }
 .social_info, 
 .social_icons {
-    margin: 18px 0 50px 0;
+    margin: 18px 0 50px 50px;
 }
 
 .social_info a {
