@@ -289,7 +289,7 @@ INTRO CONTAINER
     background-position: center;
     background-attachment: fixed;
 }
-.reservation.background_content{
+.reserfvation.background_content{
     background: url('../images/reservation-seat.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
