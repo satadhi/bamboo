@@ -4,7 +4,7 @@ $email = $_POST['email'];
 $subject = $_POST['subject']
 $message = $_POST['message'];
 $formcontent="From: $name \n Message: $message";
-$recipient = "emailaddress@here.com";
+$recipient = "satadhiayan@gmail.com";
 $mailheader = "From: $email \r\n";
 if(($name="")||($email="")||($subject="")||($message=""))
 {
