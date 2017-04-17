@@ -41,7 +41,7 @@
         $(function(){
             $('#portfolio').mixitup({
                 targetSelector: '.item',
-                transitionSpeed: 350
+                transitionSpeed: 1000
             });
         });
 
